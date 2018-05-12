@@ -1,4 +1,5 @@
 _repo: The-Devil-is-an-Ass_50150
+_version: 0.1.0
 contributor:
   creator:
     editors:
@@ -14,6 +15,9 @@ contributor:
       deathdate: 1942
       gutenberg_agent_id: '4535'
       url: http://www.gutenberg.org/2009/agents/4535
+covers:
+- cover_type: archival
+  image_path: 50150-h/images/cover-image.jpg
 creator:
   author:
     agent_name: Jonson, Ben
@@ -26,6 +30,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1269
     wikipedia: http://en.wikipedia.org/wiki/Ben_Jonson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50150#The-Devil-is-an-Ass
 gutenberg_issued: '2015-10-07'
 gutenberg_type: Text
 identifiers:
